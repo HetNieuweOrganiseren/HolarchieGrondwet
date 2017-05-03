@@ -11,7 +11,7 @@ advies in te winnen bij een rechtsgeldige instantie.
 
 Deze **"Grondwet"** definieert regels en processen voor het besturen en uitvoeren van een Organisatie. De personen die hiertoe (juridisch) bevoegd zijn (de **"Gezaghebbenden"**), adopteren deze regels als de formele machtsstructuur voor de **"Organisatie"**, als specificatie op het adopteren van de Holarchie Grondwet. Dit kan gelden voor de gehele Organisatie of een gedeelte ervan, waar de Gezaghebbenden besturende of leidende bevoegdheid over heeft. De Gezaghebbenden en iedereen die akkoord gaat om deel te nemen in het besturen en uitvoeren van de Organisatie (de **"Partners"**) kunnen bouwen op de autoriteit die wordt gegeven door deze Grondwet en gaan tevens akkoord met het feit dat ze zijn gebonden aan de verplichtingen en beperkingen ervan. 
 
-## Artikel 1: Bezitten van rollen
+## Artikel 1: Vervullen van rollen
 
 Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een rol bezit.
 
@@ -272,7 +272,7 @@ Een Gekoppelde Entiteit kan haar Koppel-Link Rol wijzigen via haar eigen Bestuur
 
 De Gekoppelde Entiteit die is uitgenodigd in een Doel-Cirkel kan een Rol zijn die onderdeel is van een andere Cirkel. In dat geval kan deze Cirkel de Gekoppelde Entiteit wijzigen in een andere Rol waarvan de Cirkel denkt dat deze meer geschikt is. Of de Cirkel kan de keuze van de Gelinkte Entiteit delegeren aan een van haar Sub-Cirkels. 
 
-## ARTIKEL III Artikel 3: Het Bestuur Proces
+## Artikel 3: Het Bestuur Proces
 
 Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
 
