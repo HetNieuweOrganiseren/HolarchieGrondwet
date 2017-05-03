@@ -1,0 +1,35 @@
+# Inleiding: Holarchie Grondwet
+
+### Wat is de Holarchie Grondwet?
+
+De Holarchie Grondwet stelt de regels, structuur en processen van het "besturingssysteem" Holarchie voor het decentraal en zelforganiseren van een organisatie. Het is de basis voor een organisatie die Holarchie wil gebruiken, door de macht te verplaatsing van 'de baas' naar een concrete en gedocumenteerde set van "spelregels" waarop alle betrokken leden kunnen vertrouwen.
+
+### Hoe kan de Holarchie Grondwet gebruikt worden?
+
+De Holarchie Grondwet is bedoeld om gebruikt te worden als de 'spelregels' bij het draaien van een Holarchische organisatie. 
+De Grondwet van Holacracy is geen compleet pakket wettelijke statuten of een formele exploitatieovereenkomst. Ook is het geen handleiding of een gids voor het leren van de Holarchie methode. Zoals het regelboek voor een genuanceerde sport, kan het soms een kritieke referentie zijn, maar het het lezen van de broncode leert u niet hoe u het spel moet spelen. 
+
+### Juridische Disclaimer
+
+Het Nieuwe Organiseren is geen advocatenkantoor. De informatie hierin bevat is een documentatie van de regels en processen van Holarchie en mag niet worden beschouwd als juridisch advies dat moet worden toegepast op elke specifieke feitelijke situatie. U mag niet vertrouwen op de in dit document verstrekte materialen in juridische hoedanigheid of juridische behoeften zonder eerst een advocaat te raadplegen met betrekking tot uw specifieke situatie. Dit document wordt geleverd "als-is", zonder garantie of voorwaarde van welke aard dan ook. Het Nieuwe Organiseren garandeert niet de kwaliteit, nauwkeurigheid, tijdigheid, volledigheid, handelbaarheid of geschiktheid van dit document voor gebruik of doel. In de mate waarin de wet voorziet, zijn Het Nieuwe Organiseren en haar leden niet aansprakelijk voor enige schade die voortvloeit uit het gebruik van dit document.
+
+### Licentie en gebruik
+
+De Holarchie Grondwet is een Fork van de **[Holarchie 'Fork'](https://github.com/HetNieuweOrganiseren/HolarchieBroncode)** Die op haar beurt weer een 'Fork' is van de **['Holacracy Constitution'](http://holacracy.org/constitution)**.
+
+# Inhoudsopgave
+
+#### [Artikel 1: Energierende rollen] (https://github.com/HetNieuweOrganiseren/HolarchieGrondwet/blob/master/Holarchie-Grondwet.md#artikel-1-bezitten-van-rollen)
+Een rol is de bouwsteen van een Holarchische Organisatie structuur. Dit artikel beslaat de basis bevoegdheden, autoriteit en verplichtingen voor een partner die een rol bezit.
+
+#### [Artikel 2: Cirkelstructuur] (https://github.com/HetNieuweOrganiseren/HolarchieGrondwet/blob/master/Holarchie-Grondwet.md#artikel-2-cirkel-structur)
+
+Een Cirkel bevat een integreert vele rollen. Dit artikel beschrijft hoe een Cirkel is gestructureerd en hoe de rollen daarin toegewezen, verkozen of gevormd worden tot Sub-cirkels
+
+#### [Artikel 3: Governance Process] (https://github.com/HetNieuweOrganiseren/HolarchieGrondwet/blob/master/Holarchie-Grondwet.md#artikel-3-het-bestuur-proces)
+
+Een Cirkels Bestuurs-proces wordt gebruikt om rollen en beleid te definiëren. Dit artikel definieert het Bestuurs-proces en de regels voor het voorstellen van een verandering of het bezwaar daarop.
+
+#### [Artikel 4: Operationeel Proces] (https://github.com/HetNieuweOrganiseren/HolarchieGrondwet/blob/master/Holarchie-Grondwet.md#artikel-4-operationeel-proces)
+
+Artikel IV heeft betrekking op de regels van operationele processen - de manieren waarop Cirkel-leden "kennis en kunde" synchroniseren en hun werk verdelen over de Rollen in de vorm van Acties en Projecten door middel van het Actie-Overleg. De Cirkel-leden vertrouwen er op dat men elkaar ondersteund en helpt het operationele werk te volbrengen.
