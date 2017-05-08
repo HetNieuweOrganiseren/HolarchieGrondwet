@@ -32,7 +32,7 @@ Wanneer een partner een rol vervult accepteert diegene de volgende verantwoordel
 
 #### 1.2.1 Spanningen verwerken
 
-Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie-Overleg
+Een partner is verantwoordelijk voor het waarnemen van "spanningen" voor die rol en de verwerking daarvan. Een Spanning is: _het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is._ De spanning word verwerkt in een Rol- of Actie Overleg
 
 #### 1.2.2 Verwerken van verantwoordelijkheden
 
@@ -509,7 +509,7 @@ Echter, als de Proces-storing niet binnen een redelijke termijn is opgelost mag 
 
 ## Artikel 4: Operationeel Proces
 
-Artikel IV heeft betrekking op de regels van operationele processen - de manieren waarop Cirkel-leden "kennis en kunde" synchroniseren en hun werk verdelen over de Rollen in de vorm van Acties en Projecten door middel van het Actie-Overleg.
+Artikel IV heeft betrekking op de regels van operationele processen - de manieren waarop Cirkel-leden "kennis en kunde" synchroniseren en hun werk verdelen over de Rollen in de vorm van Acties en Projecten door middel van het Actie Overleg.
 De Cirkel-leden vertrouwen er op dat men elkaar ondersteund en helpt het operationele werk te volbrengen. 
 
 ### 4.1 Plichten van Cirkelleden
