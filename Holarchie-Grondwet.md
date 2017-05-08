@@ -592,7 +592,7 @@ De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Over
 **(e) Verzamel en verwerk spanningen:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen zoals gedefinieerd in Artikel 3.3.4 (a). De verwerking van ieder punt gebeurt om de beurt en de eigenaar van de spanning doet dit door Partners met relevante rollen te betrekken bij de spanning totdat er een manier is gevonden om de spanning op te lossen. Als er Eerstvolgende Acties of Projecten worden geaccepteerd tijdens deze dialoog dan is de Secretaris verantwoordelijk voor het vastleggen en het verspreiden hiervan naar alle deelnemers. 
 De Facilitator heeft het doel om ieder agenda punt te behandeld en heeft het recht om een dialoog af te breken als deze dat doel in de weg staat. 
 
-**(f) Check out:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
+**(f) Sluitings Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Actie Overleg, te delen. Reacties zijn niet toegestaan.
 
 ##### 4.2.3.1 Proces verandering
 
