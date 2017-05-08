@@ -389,13 +389,13 @@ Iedereen die er niet in slaagt om aanwezig te zijn bij een Roloverleg geld als i
 
 De Facilitator moet de volgende stappen gebruiken voor Roloverleggen en helder aangeven in welke stap het overleg zich bevind:
 
-**(a) Check-in Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Roloverleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Roloverleg te delen. Reacties zijn niet toegestaan.
 
 **(b) Administratieve Mededelingen:** De Facilitator geeft de ruimte om relevante administratieve of logistieke onderwerpen te bespreken en op te lossen.
 
 **(c) Agenda Opbouw en Verwerking:** De Facilitator bouwt een agenda aan de hand van de actuele spanningen van de leden en verwerkt deze vervolgens om de beurt.
 
-**(d) Check-out Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
+**(d) Sluitings Ronde:** De Facilitator geeft iedere Partner om de beurt de ruimte om een afsluitende reflectie, of andere gedachten die zijn veroorzaakt door het Roloverleg, te delen. Reacties zijn niet toegestaan. 
 
 Een Domeinafspraak van de Cirkel mag iets toevoegen aan dit proces, maar mag niet in strijd zijn met een van de stappen of andere regels die zijn gedefinieerd in dit Artikel van de Grondwet. 
 
@@ -581,7 +581,7 @@ Alle Leden van de Cirkel en elke Partner of Rol die is uitgenodigd om deel te ne
 
 De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Overleg:
 
-**(a) Check-in Ronde:** De Facilitator geeft iedere deelnemer om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Actie Overleg te delen. Reacties zijn niet toegestaan.
+**(a) Openings Ronde:** De Facilitator geeft iedere deelnemer om de beurt de ruimte om zijn of haar huidige staat van gedachten, of een ander type openingsreactie, voor het Actie Overleg te delen. Reacties zijn niet toegestaan.
 
 **(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren.
 
