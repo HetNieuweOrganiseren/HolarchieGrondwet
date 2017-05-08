@@ -585,6 +585,10 @@ De Facilitator moet normaliter het volgende proces gebruiken voor een Actie Over
 
 **(b) Checklist Review:** De Facilitator vraagt iedere deelnemer om de voltooiing van iedere terugkerende acties op de checklist van die deelnemer te verifiëren.
 
+'Checklists' worden gebruikt om duidelijk te maken of wederkerende acties gedaan worden. De Facilitator Leest de 'cheklist' van terugkerende acties, deelnemers antwoorden met: "Check" / "Geen Check".
+
+Elk Cirkel Lid can een verzoek doen om een wederkerende actie aan de cheklist toe te voegen, zolang het verzoek valt binnen de verantwoordelijkheden van de betreffende rol. M.a.w. een nieuw 'checklist' item mag geen nieuwe verwachting vastleggen voor de rol. De verantwoordleijkheid voor een verwachting aan een Rol koppelen kan alleen via het Rol Overleg gebeuren.
+
 **(c) Metrieken Bekijken:** De Facilitator vraagt iedere deelnemer voor veranderingen in alle Metrieken waar hij/zij verantwoordelijk voor is.
 
 **(d) Project Updates:** De Facilitator vraagt iedere deelnemer om de vordering van projecten toe te lichten. Dit is de verwezenlijking van ieder Project of het uitvoeren van iedere Verantwoordelijkheid van alle Rollen die de deelnemer vervult in de Cirkel. Deelnemers mogen alleen de vordering delen die is gemaakt ten opzichte van de laatste update die is gegeven en niet de algemene status van een Project of een Verantwoordelijkheid. Iedere deelnemer mag beslissen welke Projecten of Verantwoordelijkheden het waard zijn om over te rapporteren, echter, wanneer een ander lid van de Cirkel expliciet verzoekt om updates over een specifiek Project dan moet deze worden opgenomen totdat het is voltooid of is komen te vervallen. Voor updates over de voortgang van een Project of een Verantwoordelijkheid van een Sub-Cirkel moet de Facilitator de Lead- en Rep Link de ruimte geven om updates te delen. 
