@@ -1,7 +1,11 @@
 # **Holarchie Grondwet**
 
 ## Disclaimer
-De Holarchie Grondwet is ontwikkeld door **Het Nieuwe Organiseren** en is een Fork van de Holacracy Grondwet zoals ontwikkeld door **HolacracyOne**. De informatie in dit document zijn de holarchische regels en processen voor organiseren. HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie. Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om advies in te winnen bij een rechtsgeldige instantie.
+De **Holarchie Grondwet** is een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
+HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
+Alvorens het gebruik van dit document in een rechts-vorm wordt u sterk aangeraden om
+advies in te winnen bij een rechtsgeldige instantie.
+
 
 ## Voorwoord
 
