@@ -179,7 +179,7 @@ Elke Cirkel heeft een **"Facilitator Rol"**, een **"Secretaris Rol"** en een **"
 
 #### 2.5.1 Verkiezingen en verkiesbaarheid
 
-De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.5 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Partner die de LeadLink van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Rep Link. 
+De Facilitator van elke Cirkel begeleidt terugkerende verkiezingen volgens de regels van artikel 3.3.6 om een Partner die lid is van een Cirkel te verkiezen voor de verkiesbare Rollen. Alle leden van de Cirkel zijn verkiesbaar voor de Verkozen Rollen, met uitzondering van de Partner die de LeadLink van de Cirkel vervult, deze mag niet worden gekozen als Facilitator of Rep Link. 
 
 #### 2.5.2 Verkiezingstermijn en herzien van verkiezingen 
 
