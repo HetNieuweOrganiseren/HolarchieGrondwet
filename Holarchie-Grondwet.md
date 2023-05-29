@@ -1,7 +1,5 @@
 # **Holarchie Grondwet**
 
-test
-
 ## Disclaimer
 De **Holarchie Grondwet** is een 'Fork' is van de **['Holacracy Constitution'](https://github.com/holacracyone/Holacracy-Constitution)**. De informatie in dit document zijn de holarchische regels en processen voor organiseren.
 HolacracyOne noch Het Nieuwe Organiseren zijn legitieme rechtsinstellingen. Dit document wordt u aangeboden zonder enigerlei vertegenwoordiging of garantie.
